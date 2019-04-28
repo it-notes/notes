@@ -1,3 +1,3 @@
 # IT Notes
 
-Repository with cheat sheets and gists.
+Repository with cheat sheets, gists and notes about various tools.
